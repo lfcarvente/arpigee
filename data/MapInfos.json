@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":586,"scrollY":1836.5},
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":586,"scrollY":397.5},
 {"id":2,"expanded":true,"name":"town","order":9,"parentId":1,"scrollX":561,"scrollY":421.5},
 {"id":3,"expanded":true,"name":"tiendasmall","order":10,"parentId":2,"scrollX":447,"scrollY":305.5},
 {"id":4,"expanded":false,"name":"casainicio","order":11,"parentId":2,"scrollX":447,"scrollY":305.5},
@@ -12,10 +12,11 @@ null,
 {"id":10,"expanded":false,"name":"pozo","order":8,"parentId":5,"scrollX":478.90909090909093,"scrollY":333.2727272727273},
 {"id":11,"expanded":false,"name":"CavePassage","order":12,"parentId":1,"scrollX":542,"scrollY":297.5},
 {"id":12,"expanded":false,"name":"Inn2","order":7,"parentId":9,"scrollX":447,"scrollY":305.5},
-{"id":13,"expanded":true,"name":"Laketown","order":13,"parentId":1,"scrollX":1408,"scrollY":1234.5},
+{"id":13,"expanded":true,"name":"Laketown","order":13,"parentId":1,"scrollX":439,"scrollY":618.5},
 {"id":14,"expanded":true,"name":"StoreInn","order":14,"parentId":13,"scrollX":713,"scrollY":297.5},
 {"id":15,"expanded":false,"name":"Inn2ndfloor","order":15,"parentId":14,"scrollX":673.0909090909091,"scrollY":324.54545454545456},
 {"id":16,"expanded":false,"name":"BarHub","order":17,"parentId":13,"scrollX":478.90909090909093,"scrollY":530.7272727272727},
 {"id":17,"expanded":false,"name":"Workersguild","order":16,"parentId":13,"scrollX":617,"scrollY":374.5},
-{"id":18,"expanded":false,"name":"Forge","order":18,"parentId":13,"scrollX":447,"scrollY":305.5}
+{"id":18,"expanded":false,"name":"Forge","order":18,"parentId":13,"scrollX":447,"scrollY":305.5},
+{"id":19,"expanded":false,"name":"Barn","order":19,"parentId":13,"scrollX":439,"scrollY":362.5}
 ]
